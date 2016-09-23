@@ -2,7 +2,7 @@ Title of the project:
     P1: System Setup / Portfolio
 
 Live URL of the project:
-    http://45.55.164.122/P1/
+    http://p1.omarkhan.biz/
 
 Any details the instructor or TA needs to know about using your project:
      To go to the project webpage, use the link above and go to the folder "P1" and then click on "p1.html"
